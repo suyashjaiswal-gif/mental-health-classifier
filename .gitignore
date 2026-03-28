@@ -1,0 +1,19 @@
+# Large unnecessary files
+models_v3/balanced_v2.csv
+models_v3/X_train.pkl
+models_v3/X_val.pkl
+models_v3/X_test.pkl
+models_v3/y_train.pkl
+models_v3/y_val.pkl
+models_v3/y_test.pkl
+models_v3/label_classes.pkl
+models_v5/
+models_v3/scaler_max_values.pkl
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data files
+*.csv
